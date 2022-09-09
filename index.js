@@ -27,7 +27,7 @@ function randomPassword() {
     + characters[password11] + characters[password12]
 }
 
-function randomPassword() {
+function randomPassword1() {
     let password = Math.floor(Math.random() * characters.length) 
     let password1 = Math.floor(Math.random() * characters.length) 
     let password2 = Math.floor(Math.random() * characters.length) 
